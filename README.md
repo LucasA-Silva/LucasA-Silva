@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Lucas Almeida Silva">
 
 <p align="left"> 
-  Olá meu nome é Lucas Almeida Silva, <strong>sou desenvolvedor front-end. Atuando atualmente com as stacks React, Typescript e Node.</strong>.<br>
+  Olá meu nome é Lucas Almeida Silva, <strong>sou desenvolvedor front-end. Executando atualmente com as stacks React, Typescript e Node.</strong>.<br>
   Estou cursando a Trybe atualmente.
 </p>
 
