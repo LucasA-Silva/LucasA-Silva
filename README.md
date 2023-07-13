@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá meu nome é Lucas Almeida Silva, <strong>sou desenvolvedor front-end. Executando atualmente com as stacks React, Typescript e Node.</strong>.<br>
-  Estou cursando a Trybe atualmente.
+  Formado na Trybe.
 </p>
 
 <p align="left">
